@@ -1,13 +1,15 @@
 import React from 'react'
 import { FaGithub, FaFacebook, FaLinkedin } from 'react-icons/fa';
 
+const name = "I'm Nixon Lim"
+
 export default function Hero() {
   return (
     <div className=' h-full w-full pt-24'>
         <div className='min-h-[520px] w-full h-full flex flex-col items-start sm:items-center justify-center px-6 text-left sm:text-center relative z-30'>
             <p className='text-[#FF0077] text-2xl font-semibold' data-aos="fade-up" data-aos-delay="550">Hello!</p>
-            <h1 className="text-white text-[44px] sm:text-5xl lg:text-6xl font-bold mt-4 leading-tight "  data-aos="fade-up"
-            data-aos-delay="650">I'm Nixon Lim</h1>
+            <h1 className="text-white text-[44px] sm:text-5xl lg:text-6xl font-bold mt-4 leading-tight"  data-aos="fade-up"
+            data-aos-delay="650">{name}</h1>
             <p className='text-slate-100 mt-3 text-base font-bold md:text-xl' data-aos="fade-up" data-aos-delay="750">React JS Developer</p>
 
             <div data-aos="fade-up" data-aos-delay="850">
