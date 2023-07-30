@@ -150,7 +150,7 @@ export const projects = [
         imageUrl: anindexHome,
         content: 'Anindex is a platform that provides information about anime shows. It uses an api called Jikan API.',
         githubLink: 'https://github.com/limnixon03292001/Anindex',
-        liveDemoLink: 'https://anindex.vercel.app/'
+        liveDemoLink: 'https://anindex-nextjs.vercel.app/'
     },
     {
         title: 'Binance Clone',
