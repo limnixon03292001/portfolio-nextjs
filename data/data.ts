@@ -149,7 +149,7 @@ export const projects = [
         ],
         imageUrl: anindexHome,
         content: 'Anindex is a platform that provides information about anime shows. It uses an api called Jikan API.',
-        githubLink: 'https://github.com/limnixon03292001/Anindex',
+        githubLink: 'https://github.com/limnixon03292001/anindex-nextjs',
         liveDemoLink: 'https://anindex-nextjs.vercel.app/'
     },
     {
@@ -195,8 +195,8 @@ export const projects = [
         ],
         imageUrl: todolistapp,
         content: "A simple to-do list application, this is one of my first projects in React JS. The data is stored locally using the browser's local storage.",
-        githubLink: 'https://github.com/limnixon03292001/todolist-app',
-        liveDemoLink: 'https://todolist-app-phi.vercel.app/'
+        githubLink: 'https://github.com/limnixon03292001/nextjs-todolist-app',
+        liveDemoLink: 'https://nextjs-todolist-app.vercel.app/'
     },
   
 ]
