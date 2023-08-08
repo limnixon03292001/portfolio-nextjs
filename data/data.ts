@@ -56,10 +56,10 @@ export const projects = [
         ],
         imageUrl: planetProfile,
         content: 'An e-commerce / social media platform, that let the user sell plants, post, and send a message in real time! Test account below.',
-        // testAccount: {
-        //     email: 'Email: test123@gmail.com',
-        //     password: 'Password: 123123',
-        // },
+        testAccount: {
+            email: 'Email: itonski29@gmail.com',
+            password: 'Password: 123123',
+        },
         githubLink: 'https://github.com/limnixon03292001/planet-capstone',
         liveDemoLink: 'https://planet-capstone.onrender.com/'
     },
@@ -95,11 +95,11 @@ export const projects = [
         demoGif: connectDemo,
         content: 'This is one of my dream projects, building a social media just like Facebook. Connect is a full-stack social media application. Test account below.',
         testAccount: {
-            email: 'Email: test123@gmail.com',
+            email: 'Email: itonski29@gmail.com',
             password: 'Password: 123123',
         },
         githubLink: 'https://github.com/limnixon03292001/connect-mern',
-        liveDemoLink: 'https://connect-app.onrender.com/'
+        liveDemoLink: 'https://connect-zulk.onrender.com/'
     },
     {
         title: 'Moview',
