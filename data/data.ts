@@ -61,7 +61,7 @@ export const projects = [
             password: 'Password: 123123',
         },
         githubLink: 'https://github.com/limnixon03292001/planet-capstone',
-        liveDemoLink: 'https://planet-capstone.onrender.com/'
+        liveDemoLink: 'https://planet-capstone-olcl.onrender.com/'
     },
     {
         title: 'Connect',
