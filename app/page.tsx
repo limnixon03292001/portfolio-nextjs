@@ -24,7 +24,9 @@ export default function Home() {
 
   return (
     <div className='font-fontMain antialiased overflow-hidden'>
-      <div className="h-full relative bg-gray-50">
+
+      <p style={{ color: '#000000', fontWeight: 'bold'}}>will be right back!.</p>
+      {/* <div className="h-full relative bg-gray-50">
         <Navbar/>
 
         <div className="relative w-full h-full">
@@ -55,13 +57,13 @@ export default function Home() {
           <Contact/>
         </div>
 
-      </div>
+      </div> */}
 
       {/* Toast */}
-      <Toaster
+      {/* <Toaster
         position="bottom-center"
         reverseOrder={false}
-      />
+      /> */}
       {/* Toast End */}
     </div>
   )
